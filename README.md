@@ -1,2 +1,2 @@
-# patternsRWD
+# patternRWD practice
 design patterns
